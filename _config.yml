@@ -1,0 +1,20 @@
+title: Patrons VMS
+author: Tera Global
+email: info@thepatrons.co
+description: >-
+  Comprehensive visitor management software with a simple user experience and focus on reducing contact with any hardware on the building premises.
+  The idea of Patrons to create a seamless journey when visiting a premises, without creating a hassle for the visitor while they should queue, fill in registration form and keep track on signed agreement
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # your site's origin, e.g. https://forestry.io
+
+# Build settings
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default" # this ensures all content renders with layouts/default.html
+
+plugins:
+  - jekyll-feed
+  - jekyll-menus
+
