@@ -631,13 +631,16 @@ input.inverted::placeholder {
   -ms-flex-order: 2;
   order: 2;
   margin-right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .block-feature-2 .column.text h2 {
   margin-bottom: 16px;
   margin-bottom: 1rem;
 }
 .block-feature-2 .column.media img {
-  max-width: 80%;
+  max-width: 60%;
 }
 @media screen and (min-width: 700px) {
   .block-feature-2 .columns {
