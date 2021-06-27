@@ -45,7 +45,7 @@ page_sections:
       class="light">before reach the premises</span>
     content: Allow invitee to do self registration before arrive on the building to reduce the queue in registration area
     media:
-      image: '/uploads/patrons/mobile.png'
+      image: '/uploads/patrons/1-kiosk-portrait.png'
       alt_text: Visitor Mobile Portal
   - template: content-feature
     block: feature-1

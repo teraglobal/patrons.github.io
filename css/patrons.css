@@ -312,7 +312,6 @@ input.inverted::placeholder {
 }
 .block-hero-2 .column.media img {
   width: 50% !important;
-  height: 20% !important;
 }
 @media screen and (min-width: 700px) {
   .block-hero-2 .column.text {
