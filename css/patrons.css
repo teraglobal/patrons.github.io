@@ -596,7 +596,7 @@ input.inverted::placeholder {
 }
 
 #scanqr img {
-  max-width: 80%;
+  max-width: 70%;
 }
 
 #kiosk img {
@@ -620,6 +620,19 @@ input.inverted::placeholder {
   .block-feature-1 .column.media {
     -ms-flex: 0 0 calc(60% - 2rem);
     flex: 0 0 calc(60% - 2rem);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #scanqr img {
+    max-width: 100%;
+  }
+  #kiosk img {
+    max-width: 100%;
+  }
+
+  #office img {
+    max-width: 100%;
   }
 }
 .block-feature-2 .columns {
