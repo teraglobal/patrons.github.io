@@ -23,6 +23,7 @@ page_sections:
       button_text: Coming Soon
   - template: hero-banner-w-image
     block: hero-2
+    slug: kiosk_portrait
     headline: <strong>Patrons</strong><br>back to workplace
     content: Comprehensive visitor management software with a simple user experience and focus on reducing contact with any hardware on the building premises.
     cta:
@@ -40,6 +41,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Left
+    slug: PreRegistration
     # slug: features
     headline: <strong>Pre-Registration<span class="light">&nbsp;</span></strong><span
       class="light">before reach the premises</span>
@@ -71,6 +73,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Right
+    slug: biometric
     # slug: customize
     headline: <strong>Automatic Biometric Matching</strong><span class="light">&nbsp;to avoid queue</span>
     content: Verify ID Card Photo and captured photo during registration process

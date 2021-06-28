@@ -634,6 +634,16 @@ input.inverted::placeholder {
   #office img {
     max-width: 100%;
   }
+  #PreRegistration img {
+    max-width: 100%;
+  }
+
+  .block-hero-2 .column.media img {
+    width: 60% !important;
+  }
+  #biometric img {
+    max-width: 60%;
+  }
 }
 .block-feature-2 .columns {
   display: -ms-flexbox;
