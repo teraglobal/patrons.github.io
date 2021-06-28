@@ -595,31 +595,8 @@ input.inverted::placeholder {
   max-width: 35%;
 }
 
-.block-feature-3 .columns {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-align: center;
-  align-items: center;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  text-align: center;
-}
-.block-feature-3 .column.media,
-.block-feature-3 .column.text {
-  flex: 1;
-}
-
-.block-feature-3 .column.text h2 {
-  margin-bottom: 16px;
-  margin-bottom: 1rem;
-}
-.block-feature-3 .column.media {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.block-feature-3 .column.media img {
-  max-width: 85%;
+#scanqr img {
+  max-width: 80%;
 }
 
 #kiosk img {

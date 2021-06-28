@@ -48,8 +48,9 @@ page_sections:
       image: '/uploads/patrons/1-kiosk-portrait.png'
       alt_text: Visitor Mobile Portal
   - template: content-feature
-    block: feature-3
+    block: feature-1
     media_alignment: Right
+    slug: scanqr
     # slug: customize
     headline: <strong>Mobile-based Registration</strong><span class="light">&nbsp;by scan the QR Code</span>
     content: Provide mobile web based registration to allow system In current Covid-19 pandemic reducing contact on registration process will be the best
