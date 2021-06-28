@@ -48,7 +48,7 @@ page_sections:
       image: '/uploads/patrons/1-kiosk-portrait.png'
       alt_text: Visitor Mobile Portal
   - template: content-feature
-    block: feature-1
+    block: feature-3
     media_alignment: Right
     # slug: customize
     headline: <strong>Mobile-based Registration</strong><span class="light">&nbsp;by scan the QR Code</span>
@@ -59,6 +59,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Left
+    slug: kiosk
     # slug: features
     headline: <strong>Self-service Registration<span class="light">&nbsp;</span></strong><span
       class="light">don&apos;t share your id card</span>
@@ -78,6 +79,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Left
+    slug: office
     # slug: customize
     headline: <strong>Office 365 Integration</strong><span class="light">&nbsp;seamless booking</span>
     content: Booking the meeting room, and all attendee calendar in one action
