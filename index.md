@@ -106,6 +106,6 @@ page_sections:
     content: <p><br><a href="mailto:info@thepatrons.co">info@thepatrons.co</a></p>
   - template: simple-footer
     block: footer-1
-    content: Made with ❤︎ in Indonesia<br>
-      Copyright 2021 PT. Tera Tekno Infotama
+    content: Made with ❤︎<br>
+      Copyright 2021 Patrons VMS
 ---
