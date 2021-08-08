@@ -111,5 +111,5 @@ page_sections:
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎<br>
-      Copyright 2021 Patrons VMS
+      Copyright 2021 Patrons VMS  
 ---
