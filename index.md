@@ -24,7 +24,7 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: kiosk_portrait
-    headline: <strong>Patrons</strong><br>back to workplace
+    headline: <strong>ThePatrons</strong><br>back to workplace
     content: Comprehensive visitor management software with a simple user experience and focus on reducing contact with any hardware on the building premises.
     cta:
       enabled: false
@@ -111,5 +111,5 @@ page_sections:
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎<br>
-      Copyright 2024 Patrons VMS
+      Copyright 2024 ThePatrons VMS
 ---
