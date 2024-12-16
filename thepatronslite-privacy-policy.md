@@ -32,15 +32,15 @@ page_sections:
       <p><b>Introduction:</b><br>
       Your privacy is important to us. This Privacy Policy explains how PT. Tera Tekno Infotama collects, uses, and protects the data you provide when using The Patrons Lite.</p><br>
       <p><b>Data We Collect:</b><br>
-        <list>
-          <ul> Information from QR codes you scan (only processed locally).</ul>
-          <ul> App usage statistics (to improve app performance).</ul></p>
-        </list><br>
+        <ul>
+          <li> Information from QR codes you scan (only processed locally).</li>
+          <li> App usage statistics (to improve app performance).</li></p>
+        </ul><br>
       <p><b>How We Use Your Data:</b><br>
-        <list>
-          <ul> Provide and improve app functionality</ul> 
-          <ul> Ensure seamless access and security.</ul></p>
-          </list><br>
+        <ul>
+          <li> Provide and improve app functionality</li> 
+          <li> Ensure seamless access and security.</li></p>
+        </ul><br>
       <p><b> Your Rights:</b><br>
       You can contact us at any time to access, correct, or delete your data.</p><br>
       <p><b> Contact Us:</b><br>
