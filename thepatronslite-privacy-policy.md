@@ -30,17 +30,21 @@ page_sections:
     slug: responsive
     content: |
       <p><b>Introduction:</b><br>
-      Your privacy is important to us. This Privacy Policy explains how PT. Tera Tekno Infotama collects, uses, and protects the data you provide when using The Patrons Lite.</p>
+      Your privacy is important to us. This Privacy Policy explains how PT. Tera Tekno Infotama collects, uses, and protects the data you provide when using The Patrons Lite.</p><br>
       <p><b>Data We Collect:</b><br>
-      <ul> Information from QR codes you scan (only processed locally).</ul>
-      <ul> App usage statistics (to improve app performance).</ul></p>
+        <list>
+          <ul> Information from QR codes you scan (only processed locally).</ul>
+          <ul> App usage statistics (to improve app performance).</ul></p>
+        </list><br>
       <p><b>How We Use Your Data:</b><br>
-      <ul> Provide and improve app functionality</ul> 
-      <ul> Ensure seamless access and security.</ul></p>
+        <list>
+          <ul> Provide and improve app functionality</ul> 
+          <ul> Ensure seamless access and security.</ul></p>
+          </list><br>
       <p><b> Your Rights:</b><br>
-      You can contact us at any time to access, correct, or delete your data.</p>
+      You can contact us at any time to access, correct, or delete your data.</p><br>
       <p><b> Contact Us:</b><br>
-      If you have questions about this Privacy Policy, email us at tyapeter@teraglobal.co</p>
+      If you have questions about this Privacy Policy, email us at tyapeter@teraglobal.co</p><br>
       <p><b> Updates to This Policy:</b><br>
       This Privacy Policy may be updated periodically. We encourage you to review it regularly.</p>
   - template: simple-footer
