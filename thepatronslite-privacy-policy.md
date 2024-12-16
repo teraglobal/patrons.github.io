@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bfe8e639-df4e-4f98-b39c-7e8a3f030f87)---
+---
 layout: blocks
 title:
 date: 2017-11-22T23:00:00.000+00:00
